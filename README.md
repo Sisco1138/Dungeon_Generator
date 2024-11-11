@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 1. **Clone or Download** this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/dungeon-generator.git
+   git clone https://github.com/Sisco1138/dungeon-generator.git
    cd dungeon-generator
 2. Run the Script
 python dungeon_generator.py
